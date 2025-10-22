@@ -60,5 +60,5 @@ This project is ideal for students and web learners looking to **build an e-comm
 
 ---
 
-## 📂 Project Structure
+
 
