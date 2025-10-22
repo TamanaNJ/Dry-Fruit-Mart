@@ -1,5 +1,5 @@
 # Dry-Fruit-Mart
-ryFruitMart is a responsive e-commerce website built with HTML, CSS, and JavaScript. It showcases premium dry fruits, nuts, berries, and dates with dynamic product cards, a customizable hero banner, and smooth navigation. Designed to practice DOM manipulation and modern front-end design.
+DryFruitMart is a responsive e-commerce website built with HTML, CSS, and JavaScript. It showcases premium dry fruits, nuts, berries, and dates with dynamic product cards, a customizable hero banner, and smooth navigation. Designed to practice DOM manipulation and modern front-end design.
 # 🥭 DryFruitMart – E-Commerce Website
 
 **DryFruitMart** is a modern and responsive **e-commerce website** built using **HTML, CSS, and JavaScript (DOM manipulation)**.  
